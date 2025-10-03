@@ -55,3 +55,6 @@ A powerful Telegram bot for the MetaCoder Jack community with airdrop campaigns,
    ```bash
    git clone https://github.com/Sobuj4521/mcj-bot.git
    cd mcj-bot
+   npm install
+   node bot.js
+
